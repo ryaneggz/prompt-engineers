@@ -7,3 +7,6 @@
 [submodule "chat-full-stack-with-sse"]
 	path = chat-full-stack-with-sse
 	url = https://gitlab.com/portfolio-apps/machine-learning-ai/chatgpt-sse-chat.git
+[submodule "full-stack-with-sse"]
+	path = full-stack-with-sse
+	url = https://github.com/kre8mymedia/prompt-engineers-full-stack-with-sse.git
