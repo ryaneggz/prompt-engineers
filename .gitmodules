@@ -4,3 +4,6 @@
 [submodule "proxy-api"]
 	path = proxy-api
 	url = https://github.com/kre8mymedia/prompt-engineers-proxy-api
+[submodule "chat-full-stack-with-sse"]
+	path = chat-full-stack-with-sse
+	url = https://gitlab.com/portfolio-apps/machine-learning-ai/chatgpt-sse-chat.git
