@@ -19,6 +19,7 @@ We will add a list of the main projects hosted within this mono repo and a brief
 
 - `chat-ui`: This project is a Chat GPT clone starter UI with streaming support. It aims to provide an interactive interface that allows users to effectively utilize and interact with GPT-based AI.
 - `proxy-api`: This project provides an API for protecting API keys for public unauthenticated usage. It acts as a security layer, ensuring that API keys are not exposed while being used in a public setting.
+- `full-stack-with-sse`: This project includes a very minimal React Typescript UI for testing response from a FastAPI that includes SSE support. NOTE: The intention was to add streaming support with SSE but experiencing issues with full streaming. Will respond well as simple chat interface.
 
 Please navigate to the respective project directories to learn more about each project.
 
